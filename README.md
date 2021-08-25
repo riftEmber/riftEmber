@@ -7,6 +7,7 @@
 - Current projects: [spf-ie](https://github.com/BoiseState-AdaptLab/spf-ie), [IEGenLib](https://github.com/BoiseState-AdaptLab/IEGenLib)
 
 
-![GitHub Account Statistics Visualization](https://github.com/riftEmber/github-stats/blob/master/generated/overview.svg)
+![GitHub contribution statistics visualization](https://github.com/riftEmber/github-stats/blob/master/generated/overview.svg)
+![GitHub languages statistics visualization](https://github.com/riftEmber/github-stats/blob/master/generated/languages.svg)
 
-(visualization from [jstrieb/github-stats](https://github.com/jstrieb/github-stats))
+(visualizations thanks to [jstrieb/github-stats](https://github.com/jstrieb/github-stats))
