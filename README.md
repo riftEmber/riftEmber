@@ -9,6 +9,5 @@
 
 
 ![GitHub contribution statistics visualization](https://github.com/riftEmber/github-stats/blob/master/generated/overview.svg)
-![GitHub languages statistics visualization](https://github.com/riftEmber/github-stats/blob/master/generated/languages.svg)
 
-(visualizations thanks to [jstrieb/github-stats](https://github.com/jstrieb/github-stats))
+(visualization thanks to [jstrieb/github-stats](https://github.com/jstrieb/github-stats))
