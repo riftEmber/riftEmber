@@ -2,7 +2,7 @@
 
 
 - [Personal site](https://riftEmber.com)
-- Student at Boise State University
+- Recent graduate from Boise State University
 - Member of [BSU ADaPT Lab](https://boisestate-adaptlab.github.io)
 - Current projects: [spf-ie](https://github.com/BoiseState-AdaptLab/spf-ie), [IEGenLib](https://github.com/BoiseState-AdaptLab/IEGenLib)
 - Favorite languages, in no particular order: Java, C++, Python
