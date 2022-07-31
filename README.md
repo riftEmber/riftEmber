@@ -3,8 +3,8 @@
 
 - [Personal site](https://riftEmber.com)
 - Recent graduate from Boise State University
-- Member of [BSU ADaPT Lab](https://boisestate-adaptlab.github.io)
-- Current projects: [spf-ie](https://github.com/BoiseState-AdaptLab/spf-ie), [IEGenLib](https://github.com/BoiseState-AdaptLab/IEGenLib)
+- [BSU ADaPT Lab](https://boisestate-adaptlab.github.io) alumna
+- Notable projects: [spf-ie](https://github.com/BoiseState-AdaptLab/spf-ie), [IEGenLib](https://github.com/BoiseState-AdaptLab/IEGenLib), [bsu_st_interpreter](https://github.com/riftEmber/bsu_st_interpreter)
 - Favorite languages, in no particular order: Java, C++, Python
 
 
