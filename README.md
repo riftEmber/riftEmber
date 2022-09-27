@@ -1,4 +1,4 @@
-## Anna Rift (they/them)
+## Anna Rift
 
 
 - [Personal site](https://riftEmber.com)
