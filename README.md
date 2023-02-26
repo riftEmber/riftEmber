@@ -2,7 +2,7 @@
 
 
 - [Personal site](https://riftEmber.com)
-- Member of [Chapel](https://chapel-lang.org/) Team at HPE
+- Member of the [Chapel](https://chapel-lang.org/) team at HPE
 - Recent graduate from Boise State University
 - [BSU ADaPT Lab](https://boisestate-adaptlab.github.io) alumna
 - Notable projects: [spf-ie](https://github.com/BoiseState-AdaptLab/spf-ie), [bsu_st_interpreter](https://github.com/riftEmber/bsu_st_interpreter)
